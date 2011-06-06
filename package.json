@@ -8,7 +8,7 @@
   "repository": "https://github.com/mikl/node-drupal",
   "dependencies": {
   },
-  "main": "index",
+  "main": "drupal",
   "engines": { "node": ">= 0.4.1" }
 }
 
