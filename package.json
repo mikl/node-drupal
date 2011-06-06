@@ -1,0 +1,14 @@
+{
+  "name": "drupal",
+  "version": "0.1.0",
+  "description": "Implementation of parts of Drupal’s user/access control API.",
+  "keywords": ["framework", "web"],
+  "repository": "git://github.com/mikl/node-drupal.git",
+  "author": "Mikkel Hoegh <mikkel@hoegh.org> (http://mikkel.hoegh.org/)",
+  "repository": "https://github.com/mikl/node-drupal",
+  "dependencies": {
+  },
+  "main": "index",
+  "engines": { "node": ">= 0.4.1" }
+}
+
