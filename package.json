@@ -1,6 +1,6 @@
 {
   "name": "drupal",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Implementation of parts of Drupal’s user/access control API.",
   "keywords": ["framework", "web"],
   "repository": "git://github.com/mikl/node-drupal.git",
