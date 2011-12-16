@@ -1,15 +1,17 @@
 {
-  "name": "drupal",
-  "version": "0.3.0",
-  "description": "Implementation of parts of Drupal’s user/access control API.",
-  "keywords": ["framework", "web"],
-  "repository": "git://github.com/mikl/node-drupal.git",
-  "author": "Mikkel Hoegh <mikkel@hoegh.org> (http://mikkel.hoegh.org/)",
-  "repository": "https://github.com/mikl/node-drupal",
-  "dependencies": {
+, "name": "drupal"
+, "version": "0.3.0"
+, "description": "Implementation of parts of Drupal’s user/access control API."
+, "keywords": [ "framework", "web" ]
+, "repository":
+  { "type" : "git"
+  , "url" : "https://github.com/mikl/node-drupal"
+  }
+, "author": "Mikkel Hoegh <mikkel@hoegh.org> (http://mikkel.hoegh.org/)"
+, "dependencies": {
     "mysql": "~0.9"
-  },
-  "main": "drupal",
-  "engines": { "node": ">= 0.4.1" }
+, }
+, "main": "drupal"
+, "engines": { "node": ">= 0.4.1" }
 }
 
