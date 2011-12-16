@@ -7,11 +7,17 @@
   { "type" : "git"
   , "url" : "https://github.com/mikl/node-drupal"
   }
+, "bugs" : { "url" : "http://github.com/mikl/node-drupal/issues" }
 , "author": "Mikkel Hoegh <mikkel@hoegh.org> (http://mikkel.hoegh.org/)"
 , "dependencies": {
     "mysql": "~0.9"
 , }
 , "main": "drupal"
 , "engines": { "node": ">= 0.4.1" }
+, "licenses" :
+  [ { "type" : "MIT"
+    , "url" : "http://github.com/mikl/node-drupal/raw/master/LICENSE"
+    }
+  ]
 }
 
