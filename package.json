@@ -10,7 +10,8 @@
 , "bugs" : { "url" : "http://github.com/mikl/node-drupal/issues" }
 , "author": "Mikkel Hoegh <mikkel@hoegh.org> (http://mikkel.hoegh.org/)"
 , "dependencies": {
-    "mysql": "0.9.x"
+    "mysql": "0.9.x",
+    "pg": "0.6.x"
   }
 , "main": "drupal"
 , "engines": {
