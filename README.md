@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/mikl/node-drupal.png)](http://travis-ci.org/mikl/node-drupal)
 Drupal API for Node.js
 ======================
 
