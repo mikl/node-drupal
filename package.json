@@ -1,6 +1,6 @@
 {
   "name": "drupal"
-, "version": "0.5.0"
+, "version": "0.5.1"
 , "description": "Implementation of parts of Drupal’s user/access control API."
 , "keywords": [ "framework", "web" ]
 , "repository":
@@ -11,11 +11,11 @@
 , "author": "Mikkel Hoegh <mikkel@hoegh.org> (http://mikkel.hoegh.org/)"
 , "dependencies": {
     "mysql": "0.9.x",
-    "pg": "0.6.x"
+    "pg": "~2.6.2"
   }
 , "main": "drupal"
 , "engines": {
-    "node" : "0.8 || 0.6"
+    "node" : "0.8 || 0.10"
   }
 , "licenses" :
   [ { "type" : "MIT"
