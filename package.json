@@ -20,7 +20,7 @@
   },
   "main": "drupal",
   "engines": {
-    "node": "0.10"
+    "node": ">= 5.2.0"
   },
   "licenses": [
     {
