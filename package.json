@@ -16,7 +16,7 @@
   "author": "Mikkel Hoegh <mikkel@hoegh.org> (http://mikkel.hoegh.org/)",
   "dependencies": {
     "mysql": "^2.5.4",
-    "pg": "^4.2.0"
+    "pg": "^6.0.1"
   },
   "main": "drupal",
   "engines": {
